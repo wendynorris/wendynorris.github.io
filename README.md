@@ -1,5 +1,4 @@
-# wendynorris.github.io
-# DHcode
+# welcome to DHcode
 
 URL: http://dhcode.org
 
